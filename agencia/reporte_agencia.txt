@@ -1,0 +1,12 @@
+modelo:daniela , seguidores:5000, cuidad:caracas
+modelo:david , seguidores:1000, cuidad:vargas
+modelo:maria , seguidores:1000, cuidad:27 de julio
+modelo:ramy , seguidores:700, cuidad:valencia
+modelo:jose , seguidores:700, cuidad:caracas
+modelo:maria , seguidores:300, cuidad:vargas
+modelo:antonella , seguidores:300, cuidad:vargas
+modelo:cazanoba , seguidores:220, cuidad:maracay
+modelo:margaret , seguidores:200, cuidad:valencia
+modelo:jose , seguidores:0, cuidad:valencia
+modelo:ANTONE , seguidores:0, cuidad:CARACAS
+modelo:5 , seguidores:0, cuidad:calle ciega
