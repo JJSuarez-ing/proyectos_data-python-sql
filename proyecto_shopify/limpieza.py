@@ -11,7 +11,7 @@ conexion=sqlite3.connect(':memory:')
 df.to_sql('shopify_tabla', conexion, index=False, if_exists='replace')
 
 
-consulta1='''SELECT category, round(sum(Estimated_Revenue_in_2025_USD),2) as Generado
+consulta1='''SELECT category, sum(Estimated_Revenue_in_2025_USD) as Generado
 FROM shopify_tabla
 group by category
 order by sum(Estimated_Revenue_in_2025_USD) desc;'''
